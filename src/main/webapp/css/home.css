@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.jumbotron{
+	
+	margin-top : 50px;
+}
+
+#navbar{
+	
+	display: inline-block;
+}
